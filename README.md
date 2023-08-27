@@ -5,8 +5,9 @@ Intranet of Things Administrator.
 A relatively lightweight REST-based API for collecting Internet of Things data 
 and simple data visualization with no consideration to security whatsoever.
 
-Ported from [iota.jl]() because dependency hell was preventing it from building 
-and running on a Raspberry Pi 3. If this code doesn't look pythonic, that's why.
+Ported from [iota.jl](https://github.com/AndrewWasHere/iota.jl) 
+because dependency hell was preventing it from building and running on a 
+Raspberry Pi 3. If this code doesn't look pythonic, that's why.
 
 ```mermaid
 C4Context
